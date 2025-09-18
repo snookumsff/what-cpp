@@ -5,6 +5,6 @@ int main()
 {
     cout << "What";
     cout << "Что";
-    cout << "Quoi";
+    cout << "Que";
     return 0;
 }
